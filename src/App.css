@@ -1,0 +1,187 @@
+.App {
+    font-family: "Karla", sans-serif;
+}
+
+h1 {
+    font-size:32px;
+    margin:0px;
+    font-weight: bolder;
+
+}
+
+.Nav {
+    width: 100%;
+    height: 100px;
+    background: #EBCB8B;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.12);
+    display: flex;
+    margin-bottom: 20px;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.nav--icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-bottom: 0px;
+    width: 35px;
+    margin-right: 10px;
+}
+
+.nav--paw {
+    align-self: auto;
+    width: 100%;
+}
+
+
+.tag{
+    display: flex;
+    justify-content: left;
+    padding: 30px;
+    width: 600px;
+    flex-wrap: wrap;
+
+}
+.tag--de {
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    margin-top: 0px;
+    margin-left: 550px;
+    padding-top: 20px;
+    width: 800px;
+}
+
+.de--img {
+    position: relative;
+    width: auto;
+    max-height: 300px;
+    border-radius: 20px ;
+}
+
+.de--text {
+    position: relative;
+    justify-self:center;
+    height: 300px;
+    font-size: 18px;
+    background-color: #EBCB8B;
+    border-radius: 0px;
+    flex-wrap: wrap;
+    color: black;
+    margin-left: 5px;
+    margin-right: 10px;
+    border-radius:5px;
+    text-align:left;
+    overflow:hidden;
+}
+
+.tag--breed {
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 8px;
+    margin: 5px;
+
+    /*    border: 1px solid black;*/
+    border-radius: 50px;
+    background: white;
+}
+
+
+.tag--img {
+    width:50px;
+    align-self:center;
+
+}
+
+.tag--cateDisplay {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.tag--cate {
+    display: flex;
+    flex-direction: column;
+    padding: 2px 15px;
+    background: white;
+    border-radius: 50px;
+    margin: 0px 5px;
+    border: 0px;
+    justify-self: center;
+}
+
+    .tag--cate:hover {
+        background: #EBCB8B;
+    }
+
+
+.post {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    flex-wrap: wrap;
+}
+
+.post--card {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 650px;
+    border-radius: 10px;
+    background: #EBCB8B;
+    margin: 20px;
+    overflow:hidden;
+    flex-wrap: wrap;
+    vertical-align: middle;
+}
+
+.post--img {
+    max-width: 360px;
+    max-height: 440px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.post--name {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding: 0px;
+    margin: 0px 20px;
+    margin-bottom: 5px;
+}
+
+.post--des {
+    font-size: 14px;
+    font-weight: bold;
+    color: sienna;
+    padding: 0px;
+    margin: 2px 20px;
+
+}
+
+.post--cap {
+    width: 350px;
+    font-size: 16px;
+    padding: 0px;
+    margin: 10px 20px;
+}
+
+h4 {
+    padding: 2px;
+    text-align: center;
+    margin: 0px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 15px;
+    font-weight: bold;
+    color: chocolate;
+}
