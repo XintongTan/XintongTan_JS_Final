@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/XintongTan_JS_Final/static/css/main.d291ae4f.css",
+    "main.js": "/XintongTan_JS_Final/static/js/main.92426b3a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/XintongTan_JS_Final/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/XintongTan_JS_Final/index.html",
+    "main.d291ae4f.css.map": "/XintongTan_JS_Final/static/css/main.d291ae4f.css.map",
+    "main.92426b3a.js.map": "/XintongTan_JS_Final/static/js/main.92426b3a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/XintongTan_JS_Final/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d291ae4f.css",
+    "static/js/main.92426b3a.js"
+  ]
+}
